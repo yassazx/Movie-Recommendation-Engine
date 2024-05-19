@@ -31,6 +31,7 @@ A simple movie recommendation system that suggests movies based on a user's favo
 3. **Ensure you have the movies.csv file in the same directory as the script**
 
 ## Usage
+
 1. **Run the script**
    ```python
     python main.py
