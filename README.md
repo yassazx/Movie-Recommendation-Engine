@@ -36,6 +36,7 @@ A simple movie recommendation system that suggests movies based on a user's favo
     python main.py
    ```
 2.**Enter your favorite movie name when prompted**
+
 3.**The script will output a list of recommended movies**
 
 
